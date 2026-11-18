@@ -1,6 +1,6 @@
 # Hi, I'm Janis
 
-I'm curious about AI, automation and what ordinary people can build with an idea and a willingness to experiment. I enjoy making useful applications, trying new technology and learning by seeing what works.
+I'm a father of two who is curious about AI, automation and what ordinary people can build with an idea and a willingness to experiment. I enjoy making useful applications, trying new technology and learning by seeing what works.
 
 I use ChatGPT and Codex to turn ideas into functioning projects. They help generate and revise the code, tests and documentation; I shape the ideas, choose what to try and review the results. These projects are part of how I learn.
 
